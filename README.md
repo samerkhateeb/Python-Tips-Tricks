@@ -2,7 +2,12 @@
 
 Hello everyone !!
 
-This is tips and tricks on python on Python 3.8
+Please find Python tips and tricks which can be useful during your development in python, i run thru different senarios and i collected all the details from different resources as the following:  
+
+```
+NOTE: This is tips and tricks on python on Python 3.8
+```
+
 
 - multiprocessing: how to use multi CPU's to finish a specific process
 - Threading: how to use multithreading to execute specific program. 
@@ -48,3 +53,5 @@ This is tips and tricks on python on Python 3.8
 - if/else: using if/else in a professional way.
 - input: use input methods
 - keywords: some ticks on function parameters.
+
+:tada: Great !!! just let me know if you need any clarification about any of them.
